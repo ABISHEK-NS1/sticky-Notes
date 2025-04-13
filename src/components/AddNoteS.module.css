@@ -1,0 +1,13 @@
+#addNote {
+    position: relative;
+    left:10px;
+    top: 10px;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+}
+
+#addNote:hover {
+    background-color: rgb(99, 99, 99);
+    cursor: pointer;
+}
