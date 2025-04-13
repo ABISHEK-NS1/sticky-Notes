@@ -1,5 +1,4 @@
-import React, { useRef, useState } from "react";
-import styleName from "./AddNoteS.module.css";
+import React, { useState } from "react";
 import NoteCard from "./NoteCard";
 import { IoAddOutline } from "react-icons/io5";
 
